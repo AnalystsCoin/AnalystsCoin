@@ -1,0 +1,11 @@
+{
+    "name": "AnalystsCoin",
+    "symbol": "AACoin",
+    "description": "Mine and trade AACoin in the Telegram Mini App: https://t.me/AnalystsCoinBot/AACoin",
+    "decimals": 9,
+    "image": "https://raw.githubusercontent.com/AnalystsCoin/AnalystsCoin/refs/heads/main/AnalystsCoinLogo.png",
+    "social": {
+      "telegram": "https://t.me/AnalystsCoinBot"
+    }
+  }
+  
